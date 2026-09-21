@@ -34,3 +34,8 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# --- 本服务运行产物 ---
+consolidation.db
+*.db-wal
+*.db-shm
